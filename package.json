@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gantt-schedule-timeline-calendar": "^3.40.5",
+    "socket.io": "^4.8.1"
+  }
+}
