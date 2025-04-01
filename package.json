@@ -1,6 +1,12 @@
 {
   "dependencies": {
     "gantt-schedule-timeline-calendar": "^3.40.5",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "react": "^18.0.0",            
+    "react-dom": "^18.0.0",        
+    "react-scripts": "^5.0.0"      
+  },
+  "scripts": {
+    "build": "react-scripts build"
   }
 }
